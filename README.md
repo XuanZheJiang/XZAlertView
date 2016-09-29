@@ -1,11 +1,11 @@
 # XZAlertView
-A simple AlertView
+A simple AlertView(Swift3)
 
 ## Functions
 
 Showing a simple alert
 
-	XZAlertView.addXZAlertView(view: view, title: "YourTitle");
+	XZAlertView.addXZAlertView(view: view, title: "YourTitle");  
 
 ![XZAlertView](/XZAlertView/XZAlert.gif)
 
