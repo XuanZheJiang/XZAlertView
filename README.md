@@ -5,7 +5,7 @@ A simple AlertView
 
 Showing a simple alert
 
-XZAlertView.addXZAlertView(view: view, title: "YourTitle");
+	XZAlertView.addXZAlertView(view: view, title: "YourTitle");
 
 ![XZAlertView](/XZAlertView/XZAlert.gif)
 
