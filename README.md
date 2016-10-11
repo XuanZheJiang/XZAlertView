@@ -1,5 +1,5 @@
 # XZAlertView
-A simple AlertView(Swift3)
+A simple AlertView (Swift3)
 
 ## Functions
 
